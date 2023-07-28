@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(208, 188, 208);
+    display: flex;
+}
+.button{
+    background-color: deeppink;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    padding: 8px;
+}
